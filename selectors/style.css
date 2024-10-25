@@ -1,0 +1,36 @@
+#main 
+{
+    border: 12px solid maroon;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+    color: blue;
+background-color: darkgrey;
+
+}
+
+.states
+{
+    border: 10px solid teal;
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+    background-color: blanchedalmond;
+}
+
+.topgdp
+{
+    border: 50px solid blueviolet;
+    width: 400px;
+    height: 400px;
+    box-shadow: 10px 10px 10px black;
+
+}
+
+.lowgdp
+{
+    border: 50px solid maroon;
+    width: 400px;
+    height: 400px;
+    box-shadow: 10px 10px 10px black;
+}
+
